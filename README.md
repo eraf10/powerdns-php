@@ -82,3 +82,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-downloads]: https://packagist.org/packages/exonet/powerdns-php
 [link-author]: https://github.com/exonet
 [link-contributors]: ../../contributors
+
+## More docs
+https://www.mad-hacking.net/documentation/linux/applications/dns/reverse-dns.xml
